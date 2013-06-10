@@ -1,0 +1,147 @@
+title: Manuel du datajournalisme
+version: 1.0 BETA
+
+pygments: true
+auto: true
+
+
+pages_list:
+  chapter_01: 
+    - url: 0101.html 
+      title: Aux illustres anonymes
+    - url: 0102.html 
+      title: Contributeurs
+    - url: 0103.html 
+      title: Ce qu’est ce livre (et ce qu’il n’est pas)
+    - url: 0104.html 
+      title: Le manuel en un clin d'oeil
+
+  chapter_02:
+    - url: 0201.html 
+      title: Qu’est-ce que le datajournalisme ?
+    - url: 0202.html 
+      title: Un indicateur du journalisme en mutation
+    - url: 0203.html 
+      title: Pourquoi les journalistes doivent utiliser des données
+    - url: 0204.html 
+      title: Pourquoi le datajournalisme est-il important ?
+    - url: 0205.html 
+      title: Quelques exemples du genre
+    - url: 0206.html 
+      title: Le datajournalisme en perspective
+
+  chapter_03:
+    - url: 0301.html 
+      title: Datajournalisme à la BBC
+    - url: 0302.html 
+      title: Comment fonctionne l’équipe des applications d’information du Chicago Tribune
+    - url: 0303.html 
+      title: Dans les coulisses du Guardian Datablog
+    - url: 0304.html 
+      title: Datajournalisme au Zeit Online
+    - url: 0305.html 
+      title: Comment recruter un hacker
+    - url: 0306.html 
+      title: Aller chercher les talents dans les hackathons
+    - url: 0307.html 
+      title: "Suivre les flux financiers : datajournalisme et collaboration internationale"
+    - url: 0308.html 
+      title: Nos histoires sont du code
+    - url: 0309.html 
+      title: "Kaas & Mulvad : contenu semi-fini pour groupes d’influence"
+    - url: 0310.html 
+      title: Créations d’applis à Rue89
+    - url: 0311.html 
+      title: Modèles économiques de datajournalisme
+
+  chapter_04:
+    - url: 0401.html
+      title: Le fossé des opportunités
+    - url: 0402.html 
+      title: Une enquête de neuf mois sur les fonds structurels européens
+    - url: 0403.html 
+      title: Aspirer les données d’Ameli
+    - url: 0404.html 
+      title: Contrôler les dépenses publiques avec OpenSpending.org
+    - url: 0405.html 
+      title: Une pige de « scraping olympique »
+    - url: 0406.html 
+      title: Hack électoral en temps réel (Hacks/ Hackers Buenos Aires)
+    - url: 0407.html 
+      title: "Crowdsourcing : l’accès à la TNT dans le sud-est de la France"
+    - url: 0408.html 
+      title: Le hackathon Mapa76
+    - url: 0409.html 
+      title: La couverture des émeutes au Royaume-Uni par le Guardian Datablog
+    - url: 0410.html 
+      title: Le design d’informations au service du datajournalisme
+    - url: 0411.html 
+      title: Évaluer les écoles de l’Illinois
+    - url: 0412.html 
+      title: Contrôler les factures d’hôpitaux
+    - url: 0413.html 
+      title: Le Véritomètre
+    - url: 0414.html 
+      title: Le téléphone omniscient
+    - url: 0415.html 
+      title: Quel modèle de voiture ? Taux d’échec au contrôle technique
+    - url: 0416.html 
+      title: Le subventionnement des bus en Argentine
+    - url: 0417.html 
+      title: Comment Regards Citoyens a créé NosDéputés.fr, base de données de l’activité parlementaire
+    - url: 0418.html 
+      title: Le grand tableau des élections
+    - url: 0419.html 
+      title: Crowdsourcing du prix de l’eau
+
+  chapter_05:
+    - url: 0501.html 
+      title: Guide de référence rapide
+    - url: 0502.html 
+      title: Votre droit d’accès aux données publiques
+    - url: 0503.html 
+      title: Le wobbing, ça marche !
+    - url: 0504.html 
+      title: Recueillir des données sur le Web
+    - url: 0505.html 
+      title: Le Web comme source de données
+    - url: 0506.html 
+      title: Le crowdsourcing de données au Guardian Datablog
+    - url: 0507.html 
+      title: "Utiliser et partager des données : la loi, les petits caractères et la réalité"
+
+  chapter_06:
+    - url: 0601.html 
+      title: Se former aux données en trois étapes simples
+    - url: 0602.html 
+      title: Quelques astuces pour travailler avec des chiffres
+    - url: 0603.html 
+      title: Notions de base pour travailler avec des données
+    - url: 0604.html 
+      title: Histoires de données
+    - url: 0605.html 
+      title: Les datajournalistes parlent de leurs outils préférés
+    - url: 0606.html 
+      title: Utiliser la visualisation pour faire parler les données
+
+  chapter_07:
+    - url: 0701.html 
+      title: Présenter des données au public
+    - url: 0702.html 
+      title: Concevoir une application d’information
+    - url: 0703.html 
+      title: Applications d’actualité chez ProPublica
+    - url: 0704.html 
+      title: La visualisation, meilleur outil du datajournaliste
+    - url: 0705.html 
+      title: Utiliser des visualisations pour raconter des histoires
+    - url: 0706.html 
+      title: Différents graphiques pour différents angles
+    - url: 0707.html 
+      title: "Visualisation de données maison : nos outils préférés"
+    - url: 0708.html 
+      title: Comment nous publions nos données au Verdens Gang
+    - url: 0709.html 
+      title: Données publiques sur les réseaux sociaux
+    - url: 0710.html 
+      title: Impliquer les gens autour de ses données
