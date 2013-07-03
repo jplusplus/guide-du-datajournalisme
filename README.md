@@ -6,7 +6,9 @@ Il a été traduit en français par l'éditeur Eyrolles et mis en ligne par Jour
 
 ## Installation
 
-Le site du Guide est propulsé par Jekyll, un moteur de création de site open source. Pour installer Jekyll, suivez les instructions [sur le site officiel](http://jekyllrb.com/docs/installation/).
+Le site du Guide est propulsé par Jekyll sur **MacOSX** ou **Linux**, un moteur de création de site open source. Pour installer Jekyll, suivez les instructions [sur le site officiel](http://jekyllrb.com/docs/installation/).
+
+Si vous utilisez **Windows**, vous pouvez suivres les instructions d'installation de Jekyll [sur cette page](http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html).
 
 Pour l'installer, téléchargez le fichier zip contenant l'ensemble du site puis effectuez la commande suivante depuis la racine du répertoire où vous avez extrait le zip:
 
