@@ -1,4 +1,4 @@
-title: Manuel du datajournalisme
+title: Guide du datajournalisme
 version: 1.0 BETA
 
 pygments: true
@@ -14,7 +14,7 @@ pages_list:
     - url: 0103.html 
       title: Ce qu’est ce livre (et ce qu’il n’est pas)
     - url: 0104.html 
-      title: Le manuel en un clin d'oeil
+      title: Le guide en un clin d'oeil
 
   chapter_02:
     - url: 0201.html 
