@@ -1,8 +1,17 @@
 # Guide du datajournalisme
 
-La version originale du Guide du datajournalisme est née au cours d’un atelier organisé par le Centre européen du journalisme et l’Open Knowledge Foundation lors du MozFest 2011, à Londres. Il s’est par la suite développé en une vaste collaboration internationale impliquant des douzaines de spécialistes et de partisans du datajournalisme.
+La version originale du _Guide du datajournalisme_ est née au cours d’un atelier organisé par le Centre européen du journalisme et l’Open Knowledge Foundation lors du MozFest 2011, à Londres. Il s’est par la suite développé en une vaste collaboration internationale impliquant des douzaines de spécialistes et de partisans du datajournalisme.
 
 Il a été traduit en français par l'éditeur Eyrolles et mis en ligne par Journalism++. Si vous remarquez une erreur ou voulez ajouter un exemple, un texte ou un chapitre, utilisez la puissance de GitHub pour faire vos modifications!
+
+La première révision du _Guide_ consiste à mettre à jour les services depuis la première publication du livre, en 2012 (Google Refine est devenu Open Refine, Buzzdata a disparu... entre autre).
+
+## Règles de contribution
+
+* N'utilisez que des captures d'écran, pas d'embed
+* Respectez (ou améliorez) l'architecture du site. Les modifications doivent aussi se faire dans config.yml
+* N'hésitez pas à ajoutez des liens!
+* Evitez l'autopromo. Si vous voulez ajouter une étude de cas, elle doit apporter des enseignements réutilisables par tous les praticiens
 
 ## Installation
 
@@ -14,4 +23,4 @@ Pour l'installer, téléchargez le fichier zip contenant l'ensemble du site puis
 
 	jekyll serve
 
-Le Guide sera alors disponible à l'adresse localhost:4000
+Le _Guide_ sera alors disponible à l'adresse localhost:4000
