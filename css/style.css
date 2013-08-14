@@ -97,6 +97,13 @@ html, body {
   line-height: 1.4em;
 }
 
+.note {
+  font-family: 'OpenSansLight', Helvetica, sans-serif;
+  padding-top: 0.8em;
+  font-size: 0.8em;
+  color:#888;
+}
+
 .sect2 .imageblock img {
     -webkit-box-shadow: 0px 0px 6px 0px #aaa;
      -moz-box-shadow: 0px 0px 6px 0px #aaa;
@@ -276,4 +283,24 @@ footer p {
 table.gsc-search-box {
     float: right;
     width: 317px !important;
+}
+
+table {
+    display: block;
+    overflow: auto;
+    width: 100%;
+}
+table th {
+    font-weight: bold;
+}
+table th, table td {
+    border: 1px solid #DDDDDD;
+    padding: 6px 13px;
+}
+table tr {
+    background-color: #FFFFFF;
+    border-top: 1px solid #CCCCCC;
+}
+table tr:nth-child(2n) {
+    background-color: #F8F8F8;
 }
