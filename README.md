@@ -4,7 +4,9 @@ La version originale du _Guide du datajournalisme_ est née au cours d’un ate
 
 Il a été traduit en français par l'éditeur Eyrolles et mis en ligne par Journalism++. Si vous remarquez une erreur ou voulez ajouter un exemple, un texte ou un chapitre, utilisez la puissance de GitHub pour faire vos modifications!
 
-La première révision du _Guide_ consiste à mettre à jour les services depuis la première publication du livre, en 2012 (Google Refine est devenu Open Refine, Buzzdata a disparu... entre autre).
+## Roadmap
+
+* Mettre à jour les services depuis la première publication du livre, en 2012 (Google Refine est devenu Open Refine, Buzzdata a disparu... entre autre).
 
 ## Règles de contribution
 
