@@ -3,6 +3,9 @@ version: 1.0 BETA
 
 pygments: true
 
+safe: true
+
+baseurl: "http://jplusplus.github.io/guide-du-datajournalisme/"
 
 pages_list:
   chapter_01: 
