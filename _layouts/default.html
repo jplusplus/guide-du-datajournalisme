@@ -8,16 +8,24 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
   <title>{{ page.title }} - {{ site.title }}</title>
-  <meta name="description" content="Utiliser les données pour améliorer le journalisme.">
+  <meta name="description" content="Le Guide du Datajournalisme dresse un panorama des pratiques du datajournalisme aujourd'hui et donne des repères pour ceux qui veulent se lancer dans cette nouvelle branche du journalisme, à la croisée de l'investigation, du développement et du graphisme.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="stylesheet" href="{{site.url}}/css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{site.url}}/css/bootstrap-responsive.min.css">
-  <link rel="stylesheet" href="{{site.url}}/css/style.css">
-  <link rel="shortcut icon" href="{{site.url}}/img/favicon.ico" type="image/x-icon" />
-  <script src="{{site.url}}/js/libs/modernizr-2.5.3.min.js"></script>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap-responsive.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.ico" type="image/x-icon" />
+
+  <meta content="{{ site.baseurl }}/img/cover_print.png" property="og:image">
+  <meta content="{{ site.baseurl }}{{ page.url }}" property="og:url">
+  <meta content="{{ page.title }}" property="og:title">
+  <meta content="Le Guide du Datajournalisme dresse un panorama des pratiques du datajournalisme aujourd'hui et donne des repères pour ceux qui veulent se lancer dans cette nouvelle branche du journalisme, à la croisée de l'investigation, du développement et du graphisme." property="og:description">
+  <meta property="og:type" content="website" />
+  <meta property="fb:admins" content="nicolas.kayserbril" />
+
+  <script src="{{ site.baseurl }}/js/libs/modernizr-2.5.3.min.js"></script>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script src="{{site.url}}/js/libs/bootstrap-modal.js"></script>
+  <script src="{{ site.baseurl }}/js/libs/bootstrap-modal.js"></script>
 </head>
 <body>
   <div id="fb-root"></div>

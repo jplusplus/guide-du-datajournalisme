@@ -23,6 +23,6 @@ Si vous utilisez **Windows**, vous pouvez suivres les instructions d'installatio
 
 Pour l'installer, téléchargez le fichier zip contenant l'ensemble du site puis effectuez la commande suivante depuis la racine du répertoire où vous avez extrait le zip:
 
-	jekyll serve
+	jekyll serve --watch --baseurl=
 
 Le _Guide_ sera alors disponible à l'adresse localhost:4000
