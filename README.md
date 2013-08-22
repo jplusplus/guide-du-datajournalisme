@@ -12,7 +12,7 @@ Il a été traduit en français par l'éditeur Eyrolles et mis en ligne par Jour
 
 * N'utilisez que des captures d'écran, pas d'embed
 * Respectez (ou améliorez) l'architecture du site. Les modifications doivent aussi se faire dans config.yml
-* N'hésitez pas à ajoutez des liens!
+* N'hésitez pas à ajouter des liens!
 * Evitez l'autopromo. Si vous voulez ajouter une étude de cas, elle doit apporter des enseignements réutilisables par tous les praticiens
 
 ## Installation
